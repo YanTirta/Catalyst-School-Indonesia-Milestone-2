@@ -97,7 +97,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 If we learn of a security systems breach we may attempt to notify you electronically so that you  can take appropriate protective steps. By using Products or providing Personal Information to us  you agree that we can communicate with you electronically regarding security, privacy and  administrative issues relating to your use of Products. We may post a notice on Products if a  security breach occurs. We may also send an email to you at the email address you have  provided to us in these circumstances. Depending on where you live, you may have a legal right  to receive notice of a security breach in writing. 
 
-# **Rights Under General Data Protection Regulation (GDPR)**
+### **Rights Under General Data Protection Regulation (GDPR)**
 
 If you are a citizen or resident of a member country of the European Union (EU) or the  European Economic Area (EEA), you have certain data protection rights. IOG aims to take  reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. 
 
@@ -116,7 +116,7 @@ Please note that IOG may ask you to verify your identity before responding to su
 
 You have the right to complain to a Data Protection Authority about our collection and use of  your Personal Data. For more information, please contact your local data protection authority in  the EU or EEA.
 
-# **California Residents**
+### **California Residents**
 **If you are a California resident, you have certain rights with respect to your personal  information pursuant to the California Consumer Privacy Act of 2018 (“CCPA”). This  section applies to you.**
 
 **We are required to inform you of: (i) what categories of information we collect about you,  including during the preceding 12 months, (ii) the purposes for which we use your  personal data, including during the preceding 12 months, and (iii) the purposes for which  we share your personal data, including during the preceding 12 months.** 
@@ -125,7 +125,7 @@ You have the right to: (i) request a copy of the personal information that we ha
 
 We will not discriminate against any consumer for exercising their CCPA rights. If you would like to exercise any of these rights, please contact us at legal@iohk.io.
 
-# **Service Providers, Plugins and Tools**
+### **Service Providers, Plugins and Tools**
 IOG may employ third party companies and individuals to facilitate Products, to provide the  Products on our behalf, to perform website-related services or to assist us in analyzing how the 
 
 Products are used (**"Service Providers"**). 
